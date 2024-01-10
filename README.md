@@ -1,1 +1,1 @@
-# LA1303---Verschl-sselungsapp
+# LA1303 - Verschluesselungsapp
