@@ -22,7 +22,7 @@ Eine Webapplikation namens Lachleitung, mitder man untereinander verschlüsselte
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |        Muss         |   Funktional   | Als Benutzer möchte ich die Webapplikation ohne vorherige Anmeldung nutzen können, um sofort verschlüsselte Nachrichten zu versenden. |
+| 1    |        Muss         |   Funktional   | Als Benutzer möchte ich mich in der Webapplikation anmelden können, um meine persönlichen Daten zu schützen und auf meine verschlüsselten Nachrichten zugreifen zu können. |
 |  2 |        Muss         |   Funktional   |     Als Benutzer möchte ich ein Verschlüsselungsverfahren nutzen, um die Sicherheit meiner Nachrichten zu erhöhen.    |
 | 3  |        Muss         |  Funktional    | Als Benutzer möchte ich eine verschlüsselte Textnachricht an eine bestimmte Zieladresse senden können, um vertrauliche Informationen sicher zu übermitteln.  |
 |  4 |        Kann         |   Funktional   |    Als Benutzer möchte ich die Möglichkeit haben, verschlüsselte Bilder hochzuladen und an andere Benutzer zu senden, um visuelle Informationen sicher zu teilen.  |
@@ -36,8 +36,17 @@ Eine Webapplikation namens Lachleitung, mitder man untereinander verschlüsselte
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  |    Nicht angemeldet.       |    versuchen, eine Nachricht zu senden.     |        melden Sie sich an, um Nachrichten zu senden und empfangen.           |
+| 1.2  |       angemeldet       |    versuchen, eine Nachricht zu senden.     |        Nachricht wird verschickt.           |
+| 2.1  |       1.2       |    In der Konsole versuchen, die      |        Nachricht wird verschickt.           |
+|   |       angemeldet       |    versuchen, eine Nachricht zu senden.     |        Nachricht wird verschickt.           |
+|   |       angemeldet       |    versuchen, eine Nachricht zu senden.     |        Nachricht wird verschickt.           |
+|   |       angemeldet       |    versuchen, eine Nachricht zu senden.     |        Nachricht wird verschickt.           |
+|   |       angemeldet       |    versuchen, eine Nachricht zu senden.     |        Nachricht wird verschickt.           |
+|   |       angemeldet       |    versuchen, eine Nachricht zu senden.     |        Nachricht wird verschickt.           |
+|   |       angemeldet       |    versuchen, eine Nachricht zu senden.     |        Nachricht wird verschickt.           |
+|   |       angemeldet       |    versuchen, eine Nachricht zu senden.     |        Nachricht wird verschickt.           |
+|   |       angemeldet       |    versuchen, eine Nachricht zu senden.     |        Nachricht wird verschickt.           |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
