@@ -1,12 +1,12 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
+Gruppe: Müllabfuhr
+Mitglieder: Ben Linus Müller, Janick Thomas Hurschler
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+|   10.01.2024    | 0.0.1   | Wir haben den Informieren-Teil abgeschlossen und den Planan-Teil angefangen. |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -14,7 +14,7 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Eine Webapplikation namens Lachleitung, mitder man untereinander verschlüsselte Nachrichten schreiben kann.
 
 ✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
 
@@ -22,9 +22,14 @@
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
-
+| 1    |        Muss         |   Funktional   | Als Benutzer möchte ich die Webapplikation ohne vorherige Anmeldung nutzen können, um sofort verschlüsselte Nachrichten zu versenden. |
+|  2 |        Muss         |   Funktional   |     Als Benutzer möchte ich ein Verschlüsselungsverfahren nutzen, um die Sicherheit meiner Nachrichten zu erhöhen.    |
+| 3  |        Muss         |  Funktional    | Als Benutzer möchte ich eine verschlüsselte Textnachricht an eine bestimmte Zieladresse senden können, um vertrauliche Informationen sicher zu übermitteln.  |
+|  4 |        Kann         |   Funktional   |    Als Benutzer möchte ich die Möglichkeit haben, verschlüsselte Bilder hochzuladen und an andere Benutzer zu senden, um visuelle Informationen sicher zu teilen.  |
+| 5  |      Muss           |  Funktional    | Als Benutzer möchte ich meine verschlüsselten Nachrichten entschlüsseln können, um den Inhalt zu lesen oder anzuzeigen.  |
+|  6 |       Kann          |  Qualität   |   Als Benutzer möchte ich eine Liste meiner verschlüsselten Nachrichten und Bilder einsehen können, um den Überblick über meine sicher übermittelten Daten zu behalten.    |
+| 7  |         Kann        |   Qualität   |   Als Benutzer möchte ich die Option haben, den Schlüssel für die Verschlüsselung zu ändern, um meine Kommunikation weiter zu schützen.    |
+| 8  |  Kann               |  Qualität    |     Als Benutzer möchte ich eine Funktion haben, um meine gesamte Kommunikation zu löschen, um meine Privatsphäre zu wahren und alte Daten zu entfernen.                               |
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
