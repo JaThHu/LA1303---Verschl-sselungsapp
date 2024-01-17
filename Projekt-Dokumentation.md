@@ -60,7 +60,25 @@ Total:
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Frontend (Benutzeroberfläche):
+
+Anmeldeseite (optional): Falls Sie eine optionale Anmeldeseite hinzufügen möchten, könnte das Frontend eine Seite zum Anmelden und Erstellen von Benutzerkonten bereitstellen.
+Hauptseite: Die Hauptseite sollte Funktionen zum Verfassen, Senden, Empfangen und Entschlüsseln von Nachrichten sowie zum Hochladen und Anzeigen von Bildern bieten.
+Einstellungen: Hier können Benutzer ihre Verschlüsselungseinstellungen anpassen, Schlüssel ändern oder Kontakte verwalten.
+Backend (Serverseite):
+
+Authentifizierung (optional): Wenn Sie sich für eine Anmeldung entscheiden, benötigen Sie eine Authentifizierungsschicht, die Benutzerkonten verwaltet und Authentifizierungstoken generiert.
+Verschlüsselungslogik: Hier wird die eigentliche Verschlüsselungs- und Entschlüsselungslogik implementiert. Sie können Bibliotheken wie OpenSSL oder CryptoJS verwenden.
+Datenbank: Falls Sie Nachrichten und Bilder speichern möchten, benötigen Sie eine Datenbank, um diese sicher zu persistieren. Wenn Anonymität wichtig ist, könnte eine dezentrale Datenbank oder eine verschlüsselte Datenbank in Erwägung gezogen werden.
+Kommunikation:
+
+RESTful API: Eine API kann die Kommunikation zwischen Frontend und Backend erleichtern. Sie könnte Endpunkte für das Senden und Empfangen von Nachrichten, Verwalten von Kontakten, Ändern von Einstellungen usw. bereitstellen.
+Websockets (optional): Für Echtzeitbenachrichtigungen über neue Nachrichten oder Bilder könnte die Verwendung von Websockets in Betracht gezogen werden.
+Sicherheit:
+
+HTTPS: Um die Daten während der Übertragung zu schützen, sollte die Webapplikation über HTTPS laufen.
+Verschlüsselung auf Transportebene: Die Übertragung der Daten zwischen Frontend und Backend sollte verschlüsselt erfolgen.
+Sichere Schlüsselverwaltung: Die Verwaltung der Verschlüsselungsschlüssel sollte sicher und robust sein.
 
 ## 4 Realisieren
 
