@@ -7,8 +7,8 @@ Mitglieder: Ben Linus Müller, Janick Thomas Hurschler
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |   10.01.2024    | 0.0.1   | Wir haben den Informieren-Teil abgeschlossen und den Planan-Teil angefangen. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+|   17.01.2024    | 0.1.0    |     Webapplikation ist erstellt und Login-Erstellung im Gange.         |
+
 
 ## 1 Informieren
 
