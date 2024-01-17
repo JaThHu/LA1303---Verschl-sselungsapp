@@ -30,7 +30,7 @@ Eine Webapplikation namens Lachleitung, mitder man untereinander verschlüsselte
 |  6 |       Kann          |  Qualität   |   Als Benutzer möchte ich eine Liste meiner verschlüsselten Nachrichten und Bilder einsehen können, um den Überblick über meine sicher übermittelten Daten zu behalten.    |
 | 7  |         Kann        |   Qualität   |   Als Benutzer möchte ich die Option haben, den Schlüssel für die Verschlüsselung zu ändern, um meine Kommunikation weiter zu schützen.    |
 | 8  |  Kann               |  Qualität    |     Als Benutzer möchte ich eine Funktion haben, um meine gesamte Kommunikation zu löschen, um meine Privatsphäre zu wahren und alte Daten zu entfernen.                               |
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+
 
 ### 1.3 Testfälle
 
