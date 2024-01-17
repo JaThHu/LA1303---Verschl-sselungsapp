@@ -62,14 +62,17 @@ Eine Webapplikation namens Lachleitung, mitder man untereinander verschlüsselte
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |   24.01.2024    |     Janick      |     Webapp erstellen und Login implementieren         |        3 * 45 min       |
+|  2.A |   24.01.2024    |  Ben         |       Verschlüsselungsverfahren aussuchen und implementieren       |      5 * 45 min         |
+| 3.A  |   14.02.2024    |    Ben, Janick       |      Chat-Funktion implementieren        |      5 * 45 min         |
+| 4.A  |   21.02.2024    |     Ben, Janick      |       Funktion für Bilder schicken implementieren       |      2 * 45 min         |
+|  5.A |    14.02.2024   |     Ben, Janick      |      Entschlüsselungsfunktion        |       5 * 45 min        |
+|  6.A |   14.02.2024    |     Ben, Janick      |      Liste von Verlauf        |       3 * 45 min        |
+| 7.A  |    14.02.2024   |     Ben, Janick      |      Funktion um Verschlüsselung zu ändern        |      4 * 45 min         |
+|  8.A |    14.02.2024   |     Ben, Janick      |       Funktion um Verlauf zu löschen       |        3 * 45 min       |
+|  9.A |    14.02.2024   |      Ben, Janick     |       Daten in Datenbank speichern       |       5 * 45 min        |
 
-Total: 
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
+Total: 35 * 45 min
 
 ## 3 Entscheiden
 
