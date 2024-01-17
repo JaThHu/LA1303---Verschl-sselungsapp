@@ -43,7 +43,10 @@ Eine Webapplikation namens Lachleitung, mitder man untereinander verschlüsselte
 
 ### 1.4 Diagramme
 
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 10 Anwendungsfällen ein; und einen PAP.
+<img width="201" alt="image" src="https://github.com/JaThHu/LA1303---Verschl-sselungsapp/assets/111045598/b4931d23-413e-4765-b68d-3567f3c22d5b">
+<img width="285" alt="image" src="https://github.com/JaThHu/LA1303---Verschl-sselungsapp/assets/111045598/6878e2f6-42d2-4c25-be19-0c0109d7e499">
+<img width="242" alt="image" src="https://github.com/JaThHu/LA1303---Verschl-sselungsapp/assets/111045598/378cd7df-88da-4108-8425-5f344806a503">
+<img width="266" alt="image" src="https://github.com/JaThHu/LA1303---Verschl-sselungsapp/assets/111045598/d1280c7f-d29f-4a08-8219-03f9dae977a8">
 
 ## 2 Planen
 
