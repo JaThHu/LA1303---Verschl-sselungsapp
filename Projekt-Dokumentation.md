@@ -100,15 +100,15 @@ Sichere Schlüsselverwaltung: Die Verwaltung der Verschlüsselungsschlüssel sol
 
 | AP-№ |Datum     | Zuständig  | geplante Zeit | tatsächliche Zeit |
 |------|------------|------------|---------------|-------------------|
-| 1.A  | 24.01.2024 | Janick     | 3 * 45 min    | 3 * 45 min        |
-| 2.A  | 24.01.2024 | Ben        | 5 * 45 min    | 5 * 45 min        |
-| 3.A  | 14.02.2024 | Ben, Janick| 5 * 45 min    | 5 * 45 min        |
-| 4.A  | 21.02.2024 | Ben, Janick| 2 * 45 min    | 2 * 45 min        |
+| 1.A  | 24.01.2024 | Janick     | 3 * 45 min    | 4 * 45 min        |
+| 2.A  | 24.01.2024 | Ben        | 5 * 45 min    | 4 * 45 min        |
+| 3.A  | 14.02.2024 | Ben, Janick| 5 * 45 min    | 4 * 45 min        |
+| 4.A  | 21.02.2024 | Ben, Janick| 2 * 45 min    | 3 * 45 min        |
 | 5.A  | 14.02.2024 | Ben, Janick| 5 * 45 min    | 5 * 45 min        |
 | 6.A  | 14.02.2024 | Ben, Janick| 3 * 45 min    | 3 * 45 min        |
 | 7.A  | 14.02.2024 | Ben, Janick| 4 * 45 min    | 4 * 45 min        |
-| 8.A  | 14.02.2024 | Ben, Janick| 3 * 45 min    | 3 * 45 min        |
-| 9.A  | 14.02.2024 | Ben, Janick| 5 * 45 min    | 5 * 45 min        |
+| 8.A  | 14.02.2024 | Ben, Janick| 3 * 45 min    | 4 * 45 min        |
+| 9.A  | 14.02.2024 | Ben, Janick| 5 * 45 min    | 4 * 45 min        |
 
 
 
