@@ -120,11 +120,19 @@ Sichere Schlüsselverwaltung: Die Verwaltung der Verschlüsselungsschlüssel sol
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |   21.02.2024    |    Ok      |    Janick    |
+|  1.2 |   21.02.2024    |     Ok     |    Janick    |
+|  2.1 |   21.02.2024    |     Ok     |   Janick     |
+| 3.1  |    21.02.2024   |    NOk      |   Janick     |
+|  4.1 |    21.02.2024   |    NOk      |   Janick     |
+| 5.1  |   21.02.2024    |    Ok      |    Janick    |
+| 6.1  |   21.02.2024    |     Ok     |   Janick     |
+|  7.1 |   21.02.2024    |      NOk    |   Janick     |
+|  8.1 |   21.02.2024    |    NOk      |   Janick     |
+|  9.1 |   21.02.2024    |     Ok     |   Janick     |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+### Fazit und Bemerkungen
 
-## 6 Auswerten
-
-✍️ Fügen Sie hier eine Verknüpfung zu Ihr Portfolio ein.
+Einige Tests sind nicht Ok, weil wir einige Funktionen weggelassen haben. Dies haben wir während dem Projekt zusammen entschieden aber haben in der Projektdoku stehen lassen, für Transparenz und Reflexion.
+Die anderen Test verliefen gut und somit ist unser Kernziel erreicht und wir sind zufrieden.
+Wir würden mit mehr Zeit noch die zusätzlichen Funktionen programmieren und einbauen. Das wären die möglichen Erweiterungen.
