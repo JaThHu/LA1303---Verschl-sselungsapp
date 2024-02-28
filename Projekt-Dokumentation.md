@@ -8,6 +8,8 @@ Mitglieder: Ben Linus Müller, Janick Thomas Hurschler
 | ----- | ------- | ------------------------------------------------------------ |
 |   10.01.2024    | 0.0.1   | Wir haben den Informieren-Teil abgeschlossen und den Planan-Teil angefangen. |
 |   17.01.2024    | 0.1.0    |     Webapplikation ist erstellt und Login-Erstellung im Gange.         |
+| 24.01.2024 |0.2.0 | Login erstellt und Chatroom mit Verschlüsselung im Gange.|
+|14.02.2024 |0.3.0 |Chatroom mit Verschlüsselung fertig. Frontend fertig. |
 
 
 ## 1 Informieren
@@ -15,8 +17,6 @@ Mitglieder: Ben Linus Müller, Janick Thomas Hurschler
 ### 1.1 Ihr Projekt
 
 Eine Webapplikation namens Lachleitung, mitder man untereinander verschlüsselte Nachrichten schreiben kann.
-
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
 
 ### 1.2 User Stories
 
@@ -49,7 +49,6 @@ Eine Webapplikation namens Lachleitung, mitder man untereinander verschlüsselte
 |9.1 |6.1 |Applikation beenden. Applikation öffnen. | alle Daten sind noch vorhanden und einsehbar. |
 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 
